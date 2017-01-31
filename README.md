@@ -4,7 +4,7 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-Febuary 2, 2017
+Febuary 3, 2017
 
 ## Student Name:  
 Rachel Weinstock
