@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Febuary 2, 2017
 
 ## Student Name:  
-(First and Last Name)
+Rachel Weinstock
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment analyzed what version control systems are and the importance of tracking changes made to source code. Also, the assignment examined the advantages of using version control systems for application developers.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1.  Version control is a system that records changes made to files or a set of files.
+2. Git is a version control system that stores its data as a stream of snapshots which makes modifying files much easier. 
+3. Remote repository occupies on a remote server that is shared among team members while local repository occupies on a local machine of a single user. 
